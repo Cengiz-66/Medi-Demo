@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.medi.runners.FailedTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 19.326 s <<< FAILURE! - in com.medi.runners.FailedTestRunner
+User should on the page(User is on page)  Time elapsed: 19.231 s  <<< FAILURE!
+java.lang.AssertionError: Test Result
+
